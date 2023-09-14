@@ -1,6 +1,6 @@
 fastapi
 Pillow
 tensorflow
---upgrade fastapi pydantic
+pydantic
 Jinja2
 python-multipart
