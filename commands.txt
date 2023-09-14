@@ -1,0 +1,6 @@
+pip install fastapi
+pip install Pillow
+pip install tensorflow
+pip install --upgrade fastapi pydantic
+pip install Jinja2
+pip install python-multipart
